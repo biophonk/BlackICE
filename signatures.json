@@ -1,0 +1,12 @@
+{
+    "md5": {
+        "44d88612fea8a8f36de82e1278abb02f": "EICAR Test File",
+        "d0e31bd9071f68b575a1ddf84496fac6": "ExampleMalware",
+        "13a9c8fba564725466d15151c8a78127": "AnotherMalware"
+    },
+    "sha256": {
+        "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f": "EICAR Test File",
+        "c4abbd3671c698af707948a0ff1eaf3de27aa439c12d3e4f996b94b5ff49eed8": "ExampleMalware",
+        "0fa85ead7e66dbd3eee1d65543d071740854a601170bf12aa71d586229dbace8": "AnotherMalware"
+    }
+}
