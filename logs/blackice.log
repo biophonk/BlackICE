@@ -1,0 +1,11 @@
+2025-05-06 22:42:20.115 | DEBUG    | blackice.core.scanner:scan_path:78 - CACHE HIT C:/Users/shyng/OneDrive/Рабочий стол/bice_vers/python_project2/test_files_malicious/example.docx -> low
+2025-05-06 22:42:27.666 | DEBUG    | blackice.core.scanner:scan_path:78 - CACHE HIT C:/Users/shyng/OneDrive/Рабочий стол/bice_vers/python_project2/test_files_malicious/example.docx -> low
+2025-05-06 22:42:33.228 | DEBUG    | blackice.core.scanner:scan_path:78 - CACHE HIT C:/Users/shyng/OneDrive/Рабочий стол/bice_vers/python_project2/test_files_malicious/example.docx -> low
+2025-05-06 22:42:33.447 | DEBUG    | blackice.core.scanner:scan_path:78 - CACHE HIT C:/Users/shyng/Downloads/ZAP_2_16_1_windows.exe -> low
+2025-05-06 22:42:34.778 | DEBUG    | blackice.core.scanner:scan_path:78 - CACHE HIT C:/Users/shyng/OneDrive/Рабочий стол/bice_vers/python_project2/test_files_malicious/example.docx -> low
+2025-05-06 22:42:35.003 | DEBUG    | blackice.core.scanner:scan_path:78 - CACHE HIT C:/Users/shyng/Downloads/ZAP_2_16_1_windows.exe -> low
+2025-05-06 22:42:58.047 | DEBUG    | blackice.core.scanner:scan_path:78 - CACHE HIT C:/Users/shyng/OneDrive/Рабочий стол/bice_vers/python_project2/test_files_malicious/example.docx -> low
+2025-05-06 22:42:58.291 | DEBUG    | blackice.core.scanner:scan_path:78 - CACHE HIT C:/Users/shyng/Downloads/ZAP_2_16_1_windows.exe -> low
+2025-05-06 22:43:02.299 | DEBUG    | blackice.core.scanner:scan_path:78 - CACHE HIT C:/Users/shyng/OneDrive/Рабочий стол/bice_vers/python_project2/test_files_malicious/example.docx -> low
+2025-05-06 22:43:02.523 | DEBUG    | blackice.core.scanner:scan_path:78 - CACHE HIT C:/Users/shyng/Downloads/ZAP_2_16_1_windows.exe -> low
+2025-05-06 23:55:54.042 | DEBUG    | blackice.core.scanner:scan_path:83 - CACHE HIT C:/Users/shyng/Downloads/Git-2.49.0-64-bit.exe -> high
